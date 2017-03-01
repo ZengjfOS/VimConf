@@ -4,6 +4,10 @@
 
 ## [Vundle](https://github.com/VundleVim/Vundle.vim)
 
+获取Vundle：`git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+
+## 配置
+
 这里本人主要是采用[Vundle](https://github.com/VundleVim/Vundle.vim)进行插件管理，这个工具很实用，主要配置如下:
 
 ```
